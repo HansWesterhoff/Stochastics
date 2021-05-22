@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ThierryMondeel/Systems_Biology_FBA_tutorial/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/HansWesterhoff/Stochastics/master)
 
 # Welcome to the Systems Biology Amsterdam stochastics tutorial
 This Github repository contains all materials related to a collection of stochastic/noise practicals taught as part of the systems biology and medicine course at CDAC (Como) 2021 in 2021. 
