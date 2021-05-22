@@ -1,5 +1,4 @@
-# Corona
-Computer models for Corona epidemic
+# Noise
+Computer models for noise, dispersion and transcription bursting
 
 
-This is a repository for the Copasi models used in the main text of Westerhoff and Kolodkin 2020.
