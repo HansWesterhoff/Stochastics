@@ -27,4 +27,4 @@ The aims of the tutorial are:
 # Start the tutorial
 To start the tutorial, **click on the "launch binder" button** at the top of this page. You will be redirected to a webpage that will generate a personal jupyter container for you. 
 
-After a minute or two the notebook server will be launched. You will see a folder with files. **Open the file you wnat (either describing this tutorial, or the notebook or the python tutorial**. 
+After a minute or two the notebook server will be launched. You will see a folder with files. **Open the file you want to run (either describing this tutorial ['Wff_course_CDAC_2021'], the tutorial on notebook use ['0_running_code_in_notebook'], or the tutorial introducing you to the line-by-line programming language Python ['1-introduction_to_python]]**. 
