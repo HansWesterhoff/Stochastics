@@ -30,6 +30,7 @@ To start the tutorial, **click on the "launch binder" button** at the top of thi
 After a minute or two the notebook server will be launched. You will see a folder with files. 
 
 **Then open the file you want to run either describing:
--this tutorial as a whole ['Wff_course_CDAC_2021'], 
--the section with the tutorial on notebook use ['0_running_code_in_notebook'], or
--the section with the tutorial introducing you to the line-by-line programming language Python ['1-introduction_to_python])**. 
+
+1. this tutorial as a whole ['Wff_course_CDAC_2021'], 
+2. the section with the tutorial on notebook use ['0_running_code_in_notebook'], or
+3. the section with the tutorial introducing you to the line-by-line programming language Python ['1-introduction_to_python])**. 
